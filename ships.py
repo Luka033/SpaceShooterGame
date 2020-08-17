@@ -123,3 +123,7 @@ class Enemy(Ship):
                 os.system("afplay assets/enemy_laser2.wav&")
             self.lasers.append(laser)
             self.cool_down_counter = 1
+
+
+
+
