@@ -1,5 +1,5 @@
 # SpaceShooterGame
 2D space-shooter game in pygame
 
-![img](https://imgur.com/a/IL8lb0Z)
+![alt text](https://imgur.com/a/IL8lb0Z)
  
